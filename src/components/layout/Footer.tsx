@@ -94,7 +94,7 @@ export default function Footer() {
           <p className="text-xs text-slate-400">
             © {year} {site.name}. Seluruh hak cipta dilindungi.
           </p>
-          <p className="text-xs text-slate-400">Dibuat dengan Next.js &amp; Framer Motion</p>
+          <p className="text-xs text-slate-400">Dibuat oleh Fazri &amp;</p>
         </Container>
       </div>
     </footer>
