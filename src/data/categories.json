@@ -1,0 +1,72 @@
+[
+  {
+    "id": "cat-dome",
+    "slug": "kamera-dome",
+    "name": "Kamera Dome",
+    "shortName": "Dome",
+    "description": "Desain kompak untuk pengawasan indoor dan outdoor dengan sudut pandang luas.",
+    "icon": "camera",
+    "color": "#2563eb",
+    "image": "/images/categories/kamera-dome.svg"
+  },
+  {
+    "id": "cat-bullet",
+    "slug": "kamera-bullet",
+    "name": "Kamera Bullet",
+    "shortName": "Bullet",
+    "description": "Tahan cuaca dan cocok untuk pengawasan outdoor jarak jauh.",
+    "icon": "cctv",
+    "color": "#0ea5e9",
+    "image": "/images/categories/kamera-bullet.svg"
+  },
+  {
+    "id": "cat-ptz",
+    "slug": "kamera-ptz",
+    "name": "Kamera PTZ",
+    "shortName": "PTZ",
+    "description": "Kamera dengan fitur pan-tilt-zoom untuk area pengawasan luas.",
+    "icon": "scan",
+    "color": "#7c3aed",
+    "image": "/images/categories/kamera-ptz.svg"
+  },
+  {
+    "id": "cat-wifi",
+    "slug": "kamera-wifi",
+    "name": "Kamera WiFi",
+    "shortName": "WiFi",
+    "description": "Instalasi mudah tanpa kabel, kontrol penuh lewat aplikasi smartphone.",
+    "icon": "wifi",
+    "color": "#059669",
+    "image": "/images/categories/kamera-wifi.svg"
+  },
+  {
+    "id": "cat-dvr-nvr",
+    "slug": "dvr-nvr",
+    "name": "DVR & NVR",
+    "shortName": "DVR/NVR",
+    "description": "Perangkat perekam untuk menyimpan dan mengelola rekaman CCTV.",
+    "icon": "server",
+    "color": "#d97706",
+    "image": "/images/categories/dvr-nvr.svg"
+  },
+  {
+    "id": "cat-paket",
+    "slug": "paket-cctv",
+    "name": "Paket CCTV",
+    "shortName": "Paket",
+    "description": "Paket lengkap kamera, DVR, kabel dan aksesoris siap pasang.",
+    "icon": "package",
+    "color": "#e11d48",
+    "image": "/images/categories/paket-cctv.svg"
+  },
+  {
+    "id": "cat-aksesoris",
+    "slug": "aksesoris",
+    "name": "Aksesoris",
+    "shortName": "Aksesoris",
+    "description": "Kabel, adaptor, hardisk, dan perlengkapan pendukung instalasi CCTV.",
+    "icon": "cable",
+    "color": "#475569",
+    "image": "/images/categories/aksesoris.svg"
+  }
+]

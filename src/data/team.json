@@ -1,0 +1,6 @@
+[
+  { "id": "m1", "name": "Andika Pratama", "role": "Founder & CEO", "initials": "AP", "color": "#2563eb" },
+  { "id": "m2", "name": "Rizal Firmansyah", "role": "Head of Technician", "initials": "RF", "color": "#059669" },
+  { "id": "m3", "name": "Nadia Kusuma", "role": "Customer Support Lead", "initials": "NK", "color": "#7c3aed" },
+  { "id": "m4", "name": "Farhan Maulana", "role": "Marketing Manager", "initials": "FM", "color": "#d97706" }
+]

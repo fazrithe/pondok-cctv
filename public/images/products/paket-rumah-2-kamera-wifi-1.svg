@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640" width="640" height="640">
+  <defs>
+    <linearGradient id="g19uumx" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fdedf0"/>
+      <stop offset="100%" stop-color="#f9d2da"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="640" rx="32" fill="url(#g19uumx)"/>
+  <circle cx="320" cy="294.40000000000003" r="217.60000000000002" fill="#e11d48" opacity="0.08"/>
+  
+  <g>
+    
+  <g>
+    <rect x="150" y="200" width="340" height="240" rx="18" fill="#e11d48"/>
+    <rect x="150" y="200" width="340" height="240" rx="18" fill="none" stroke="#a91636" stroke-width="6"/>
+    <rect x="170" y="224" width="300" height="18" rx="9" fill="#0f172a" opacity="0.85"/>
+    <rect x="170" y="230" width="300" height="26" rx="6" fill="#a91636" opacity="0.25"/><rect x="170" y="274" width="300" height="26" rx="6" fill="#a91636" opacity="0.25"/><rect x="170" y="318" width="300" height="26" rx="6" fill="#a91636" opacity="0.25"/>
+    <circle cx="450" cy="412" r="10" fill="#22c55e"/>
+    <circle cx="415" cy="412" r="10" fill="#facc15"/>
+  </g>
+    <g transform="translate(-190,-40) scale(0.55)">
+      
+  <g>
+    <ellipse cx="320" cy="410" rx="150" ry="18" fill="#e11d48" opacity="0.12"/>
+    <rect x="300" y="280" width="40" height="120" fill="#a91636"/>
+    <rect x="190" y="260" width="220" height="90" rx="30" fill="#e11d48"/>
+    <rect x="190" y="260" width="220" height="90" rx="30" fill="none" stroke="#a91636" stroke-width="6"/>
+    <circle cx="415" cy="305" r="42" fill="#0f172a"/>
+    <circle cx="415" cy="305" r="26" fill="#1e293b"/>
+    <circle cx="405" cy="293" r="8" fill="#ffffff" opacity="0.4"/>
+    <rect x="170" y="280" width="26" height="50" rx="8" fill="#a91636"/>
+  </g>
+    </g>
+  </g>
+</svg>

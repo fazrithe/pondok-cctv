@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <defs>
+    <linearGradient id="gkgt4uw" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ebf7f3"/>
+      <stop offset="100%" stop-color="#cdeae1"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" rx="32" fill="url(#gkgt4uw)"/>
+  <circle cx="200" cy="184" r="136" fill="#059669" opacity="0.08"/>
+  
+  <g>
+    <ellipse cx="320" cy="410" rx="130" ry="16" fill="#059669" opacity="0.12"/>
+    <circle cx="320" cy="300" r="120" fill="#059669"/>
+    <circle cx="320" cy="300" r="120" fill="none" stroke="#04714f" stroke-width="6"/>
+    <circle cx="320" cy="300" r="70" fill="#0f172a"/>
+    <circle cx="320" cy="300" r="44" fill="#1e293b"/>
+    <circle cx="304" cy="280" r="12" fill="#ffffff" opacity="0.4"/>
+    <path d="M 380 210 q 70 40 20 120" fill="none" stroke="#04714f" stroke-width="10" stroke-linecap="round" opacity="0.55"/>
+    <circle cx="415" cy="190" r="10" fill="#04714f"/>
+    <path d="M 375 225 q 40 25 10 75" fill="none" stroke="#ffffff" stroke-width="7" stroke-linecap="round" opacity="0.6"/>
+    <path d="M 365 245 q 20 12 4 40" fill="none" stroke="#ffffff" stroke-width="6" stroke-linecap="round" opacity="0.7"/>
+  </g>
+</svg>

@@ -1,0 +1,692 @@
+[
+  {
+    "id": "PC-001",
+    "slug": "hikcam-dome-2mp-indoor",
+    "name": "HikCam Dome 2MP Indoor",
+    "category": "kamera-dome",
+    "type": "dome",
+    "brand": "HikCam",
+    "price": 285000,
+    "originalPrice": 350000,
+    "rating": 4.8,
+    "reviewCount": 214,
+    "sold": 1320,
+    "stock": 48,
+    "badge": "Best Seller",
+    "resolution": "2MP Full HD 1080p",
+    "connectivity": "Analog HD (AHD)",
+    "placement": "Indoor",
+    "color": "#2563eb",
+    "shortDescription": "Kamera dome ekonomis dengan gambar tajam untuk pengawasan dalam ruangan.",
+    "description": "HikCam Dome 2MP Indoor adalah pilihan tepat untuk mengawasi ruang kerja, toko, atau rumah Anda dengan kualitas gambar Full HD 1080p. Desain dome yang ringkas membuatnya mudah dipasang di plafon tanpa mengganggu estetika ruangan.",
+    "features": [
+      "Resolusi 2MP Full HD 1080p",
+      "Night vision hingga 20 meter",
+      "Sudut pandang 90 derajat",
+      "Anti vandal casing",
+      "Mendukung DVR AHD/analog"
+    ],
+    "specs": {
+      "Sensor": "1/2.7\" CMOS",
+      "Resolusi": "1920x1080",
+      "Lensa": "3.6mm fixed",
+      "Night Vision": "20m infrared",
+      "Power": "DC 12V"
+    },
+    "images": [
+      "/images/products/hikcam-dome-2mp-indoor-1.svg",
+      "/images/products/hikcam-dome-2mp-indoor-2.svg"
+    ]
+  },
+  {
+    "id": "PC-002",
+    "slug": "guardeye-dome-5mp-outdoor",
+    "name": "GuardEye Dome 5MP Outdoor",
+    "category": "kamera-dome",
+    "type": "dome",
+    "brand": "GuardEye",
+    "price": 495000,
+    "originalPrice": 620000,
+    "rating": 4.7,
+    "reviewCount": 156,
+    "sold": 742,
+    "stock": 32,
+    "badge": "Diskon",
+    "resolution": "5MP Super HD",
+    "connectivity": "IP PoE",
+    "placement": "Outdoor",
+    "color": "#2563eb",
+    "shortDescription": "Kamera dome outdoor tahan air dengan resolusi tinggi 5MP.",
+    "description": "Dilengkapi rating IP66 tahan cuaca ekstrem, GuardEye Dome 5MP cocok dipasang di teras, garasi, atau area luar ruangan lainnya. Teknologi WDR menjaga detail gambar tetap jelas meski kondisi cahaya kontras tinggi.",
+    "features": [
+      "Resolusi 5MP Super HD",
+      "IP66 tahan air & debu",
+      "Wide Dynamic Range (WDR)",
+      "Night vision 30 meter",
+      "Deteksi gerak cerdas"
+    ],
+    "specs": {
+      "Sensor": "1/2.8\" CMOS",
+      "Resolusi": "2592x1944",
+      "Lensa": "4mm fixed",
+      "Night Vision": "30m infrared",
+      "Power": "PoE 802.3af"
+    },
+    "images": [
+      "/images/products/guardeye-dome-5mp-outdoor-1.svg",
+      "/images/products/guardeye-dome-5mp-outdoor-2.svg"
+    ]
+  },
+  {
+    "id": "PC-003",
+    "slug": "nightowl-bullet-4mp-outdoor",
+    "name": "NightOwl Bullet 4MP Outdoor",
+    "category": "kamera-bullet",
+    "type": "bullet",
+    "brand": "NightOwl",
+    "price": 410000,
+    "originalPrice": 480000,
+    "rating": 4.6,
+    "reviewCount": 189,
+    "sold": 980,
+    "stock": 55,
+    "badge": "Best Seller",
+    "resolution": "4MP QHD",
+    "connectivity": "Analog HD (AHD)",
+    "placement": "Outdoor",
+    "color": "#0ea5e9",
+    "shortDescription": "Kamera bullet tahan cuaca dengan jangkauan malam hari yang jauh.",
+    "description": "NightOwl Bullet 4MP dirancang khusus untuk pengawasan jarak jauh di area terbuka seperti halaman, gudang, atau pagar rumah. Body metal tahan karat menjamin ketahanan jangka panjang.",
+    "features": [
+      "Resolusi 4MP QHD",
+      "Jarak infrared hingga 40 meter",
+      "Body metal anti karat",
+      "IP67 waterproof",
+      "Sudut pandang sempit untuk fokus area jauh"
+    ],
+    "specs": {
+      "Sensor": "1/3\" CMOS",
+      "Resolusi": "2560x1440",
+      "Lensa": "6mm fixed",
+      "Night Vision": "40m infrared",
+      "Power": "DC 12V"
+    },
+    "images": [
+      "/images/products/nightowl-bullet-4mp-outdoor-1.svg",
+      "/images/products/nightowl-bullet-4mp-outdoor-2.svg"
+    ]
+  },
+  {
+    "id": "PC-004",
+    "slug": "steelcam-bullet-2mp-basic",
+    "name": "SteelCam Bullet 2MP Basic",
+    "category": "kamera-bullet",
+    "type": "bullet",
+    "brand": "SteelCam",
+    "price": 195000,
+    "originalPrice": 240000,
+    "rating": 4.5,
+    "reviewCount": 302,
+    "sold": 1890,
+    "stock": 76,
+    "badge": "Termurah",
+    "resolution": "2MP Full HD",
+    "connectivity": "Analog HD (AHD)",
+    "placement": "Outdoor",
+    "color": "#0ea5e9",
+    "shortDescription": "Solusi CCTV outdoor hemat biaya untuk kebutuhan dasar.",
+    "description": "Cocok untuk pemilik rumah atau usaha kecil yang membutuhkan solusi pengawasan dasar tanpa menguras budget, tanpa mengorbankan kualitas gambar Full HD.",
+    "features": [
+      "Resolusi 2MP Full HD",
+      "Night vision 25 meter",
+      "Body tahan cuaca IP66",
+      "Instalasi mudah",
+      "Harga terjangkau"
+    ],
+    "specs": {
+      "Sensor": "1/2.9\" CMOS",
+      "Resolusi": "1920x1080",
+      "Lensa": "3.6mm fixed",
+      "Night Vision": "25m infrared",
+      "Power": "DC 12V"
+    },
+    "images": [
+      "/images/products/steelcam-bullet-2mp-basic-1.svg",
+      "/images/products/steelcam-bullet-2mp-basic-2.svg"
+    ]
+  },
+  {
+    "id": "PC-005",
+    "slug": "orbitcam-ptz-5mp-autozoom",
+    "name": "OrbitCam PTZ 5MP Auto Zoom",
+    "category": "kamera-ptz",
+    "type": "ptz",
+    "brand": "OrbitCam",
+    "price": 1850000,
+    "originalPrice": 2150000,
+    "rating": 4.9,
+    "reviewCount": 87,
+    "sold": 214,
+    "stock": 14,
+    "badge": "Premium",
+    "resolution": "5MP Super HD",
+    "connectivity": "IP PoE",
+    "placement": "Indoor/Outdoor",
+    "color": "#7c3aed",
+    "shortDescription": "Kamera PTZ dengan rotasi 360 derajat dan optical zoom 10x.",
+    "description": "OrbitCam PTZ memungkinkan kontrol penuh arah pandang kamera dari jarak jauh melalui aplikasi. Ideal untuk area luas seperti pabrik, gudang besar, atau lahan parkir dengan fitur auto-tracking objek bergerak.",
+    "features": [
+      "Rotasi pan 360 derajat, tilt 90 derajat",
+      "Optical zoom 10x",
+      "Auto-tracking objek bergerak",
+      "Kontrol via aplikasi mobile",
+      "Preset posisi otomatis"
+    ],
+    "specs": {
+      "Sensor": "1/2.8\" CMOS",
+      "Resolusi": "2592x1944",
+      "Zoom": "10x optical",
+      "Night Vision": "50m infrared",
+      "Power": "PoE+ / DC 24V"
+    },
+    "images": [
+      "/images/products/orbitcam-ptz-5mp-autozoom-1.svg",
+      "/images/products/orbitcam-ptz-5mp-autozoom-2.svg"
+    ]
+  },
+  {
+    "id": "PC-006",
+    "slug": "orbitcam-ptz-2mp-standard",
+    "name": "OrbitCam PTZ 2MP Standard",
+    "category": "kamera-ptz",
+    "type": "ptz",
+    "brand": "OrbitCam",
+    "price": 980000,
+    "originalPrice": 1150000,
+    "rating": 4.6,
+    "reviewCount": 63,
+    "sold": 178,
+    "stock": 21,
+    "badge": null,
+    "resolution": "2MP Full HD",
+    "connectivity": "IP PoE",
+    "placement": "Indoor/Outdoor",
+    "color": "#7c3aed",
+    "shortDescription": "Kamera PTZ dengan harga lebih terjangkau untuk area menengah.",
+    "description": "Versi standar dari OrbitCam PTZ dengan tetap membawa fitur rotasi dan zoom, cocok untuk pengawasan area kantor menengah dengan budget lebih efisien.",
+    "features": [
+      "Rotasi pan 350 derajat, tilt 80 derajat",
+      "Optical zoom 4x",
+      "Kontrol via aplikasi mobile",
+      "8 preset posisi"
+    ],
+    "specs": {
+      "Sensor": "1/2.9\" CMOS",
+      "Resolusi": "1920x1080",
+      "Zoom": "4x optical",
+      "Night Vision": "35m infrared",
+      "Power": "PoE / DC 12V"
+    },
+    "images": [
+      "/images/products/orbitcam-ptz-2mp-standard-1.svg",
+      "/images/products/orbitcam-ptz-2mp-standard-2.svg"
+    ]
+  },
+  {
+    "id": "PC-007",
+    "slug": "smarteye-wifi-cam-3mp",
+    "name": "SmartEye WiFi Cam 3MP",
+    "category": "kamera-wifi",
+    "type": "wifi",
+    "brand": "SmartEye",
+    "price": 315000,
+    "originalPrice": 375000,
+    "rating": 4.7,
+    "reviewCount": 421,
+    "sold": 2140,
+    "stock": 63,
+    "badge": "Best Seller",
+    "resolution": "3MP QHD",
+    "connectivity": "WiFi 2.4GHz",
+    "placement": "Indoor",
+    "color": "#059669",
+    "shortDescription": "Kamera WiFi pintar dengan two-way audio dan notifikasi real-time.",
+    "description": "Pantau rumah Anda kapan saja lewat aplikasi smartphone. SmartEye WiFi Cam mendukung komunikasi dua arah, deteksi gerak dengan notifikasi instan, dan penyimpanan cloud opsional.",
+    "features": [
+      "Koneksi WiFi tanpa kabel data",
+      "Two-way audio (bicara dua arah)",
+      "Notifikasi deteksi gerak real-time",
+      "Rotasi pan-tilt via aplikasi",
+      "Mendukung micro SD hingga 128GB"
+    ],
+    "specs": {
+      "Sensor": "1/3\" CMOS",
+      "Resolusi": "2304x1296",
+      "Konektivitas": "WiFi 802.11 b/g/n",
+      "Audio": "Two-way, built-in mic & speaker",
+      "Power": "DC 5V USB"
+    },
+    "images": [
+      "/images/products/smarteye-wifi-cam-3mp-1.svg",
+      "/images/products/smarteye-wifi-cam-3mp-2.svg"
+    ]
+  },
+  {
+    "id": "PC-008",
+    "slug": "smarteye-wifi-outdoor-4mp",
+    "name": "SmartEye WiFi Outdoor 4MP",
+    "category": "kamera-wifi",
+    "type": "wifi",
+    "brand": "SmartEye",
+    "price": 425000,
+    "originalPrice": 510000,
+    "rating": 4.6,
+    "reviewCount": 198,
+    "sold": 865,
+    "stock": 40,
+    "badge": "Diskon",
+    "resolution": "4MP QHD",
+    "connectivity": "WiFi 2.4GHz/5GHz",
+    "placement": "Outdoor",
+    "color": "#059669",
+    "shortDescription": "Kamera WiFi outdoor tahan cuaca dengan alarm sirine bawaan.",
+    "description": "Dilengkapi lampu sorot dan sirine peringatan, SmartEye WiFi Outdoor mampu mengusir penyusup secara otomatis begitu gerakan mencurigakan terdeteksi di area rumah Anda.",
+    "features": [
+      "Tahan cuaca IP65",
+      "Lampu sorot & sirine otomatis",
+      "Deteksi manusia dengan AI",
+      "Penyimpanan cloud & micro SD",
+      "Night vision berwarna"
+    ],
+    "specs": {
+      "Sensor": "1/2.7\" CMOS",
+      "Resolusi": "2560x1440",
+      "Konektivitas": "Dual-band WiFi",
+      "Night Vision": "Color night vision 15m",
+      "Power": "DC 12V adaptor"
+    },
+    "images": [
+      "/images/products/smarteye-wifi-outdoor-4mp-1.svg",
+      "/images/products/smarteye-wifi-outdoor-4mp-2.svg"
+    ]
+  },
+  {
+    "id": "PC-009",
+    "slug": "recorderx-dvr-8ch-1080p",
+    "name": "RecorderX DVR 8 Channel 1080p",
+    "category": "dvr-nvr",
+    "type": "dvr",
+    "brand": "RecorderX",
+    "price": 720000,
+    "originalPrice": 850000,
+    "rating": 4.7,
+    "reviewCount": 132,
+    "sold": 540,
+    "stock": 28,
+    "badge": "Best Seller",
+    "resolution": "8 Channel 1080p",
+    "connectivity": "Analog HD (AHD)",
+    "placement": "Indoor",
+    "color": "#d97706",
+    "shortDescription": "DVR 8 channel untuk sistem CCTV analog HD rumah dan usaha kecil.",
+    "description": "RecorderX DVR 8CH mendukung hingga 8 kamera analog HD dengan kemampuan playback jarak jauh melalui aplikasi mobile dan dukungan hardisk hingga 8TB.",
+    "features": [
+      "8 channel input kamera",
+      "Output HDMI & VGA",
+      "Akses remote via aplikasi mobile",
+      "Mendukung hardisk hingga 8TB",
+      "Motion detection recording"
+    ],
+    "specs": {
+      "Channel": "8 CH",
+      "Resolusi Rekam": "1920x1080 @ 25fps",
+      "Storage": "1x SATA, max 8TB",
+      "Output": "HDMI, VGA",
+      "Power": "DC 12V 2A"
+    },
+    "images": [
+      "/images/products/recorderx-dvr-8ch-1080p-1.svg",
+      "/images/products/recorderx-dvr-8ch-1080p-2.svg"
+    ]
+  },
+  {
+    "id": "PC-010",
+    "slug": "recorderx-nvr-16ch-4k",
+    "name": "RecorderX NVR 16 Channel 4K",
+    "category": "dvr-nvr",
+    "type": "nvr",
+    "brand": "RecorderX",
+    "price": 2150000,
+    "originalPrice": 2450000,
+    "rating": 4.8,
+    "reviewCount": 74,
+    "sold": 189,
+    "stock": 12,
+    "badge": "Premium",
+    "resolution": "16 Channel 4K",
+    "connectivity": "IP PoE",
+    "placement": "Indoor",
+    "color": "#d97706",
+    "shortDescription": "NVR 16 channel dengan dukungan resolusi hingga 4K untuk sistem IP camera skala besar.",
+    "description": "Dirancang untuk kebutuhan bisnis dan gedung dengan banyak titik kamera. RecorderX NVR 16CH mendukung PoE built-in sehingga tidak perlu switch PoE terpisah.",
+    "features": [
+      "16 channel IP camera, PoE built-in",
+      "Mendukung resolusi hingga 4K/8MP",
+      "2 bay hardisk, max 16TB",
+      "Smart search & face detection",
+      "Akses cloud P2P"
+    ],
+    "specs": {
+      "Channel": "16 CH IP + PoE",
+      "Resolusi Rekam": "Hingga 4K",
+      "Storage": "2x SATA, max 16TB",
+      "Output": "HDMI 4K, VGA",
+      "Power": "DC 48V (PoE built-in)"
+    },
+    "images": [
+      "/images/products/recorderx-nvr-16ch-4k-1.svg",
+      "/images/products/recorderx-nvr-16ch-4k-2.svg"
+    ]
+  },
+  {
+    "id": "PC-011",
+    "slug": "recorderx-dvr-4ch-720p",
+    "name": "RecorderX DVR 4 Channel 720p",
+    "category": "dvr-nvr",
+    "type": "dvr",
+    "brand": "RecorderX",
+    "price": 385000,
+    "originalPrice": 450000,
+    "rating": 4.4,
+    "reviewCount": 96,
+    "sold": 610,
+    "stock": 45,
+    "badge": "Termurah",
+    "resolution": "4 Channel 720p",
+    "connectivity": "Analog HD (AHD)",
+    "placement": "Indoor",
+    "color": "#d97706",
+    "shortDescription": "DVR 4 channel entry-level, ideal untuk rumah tinggal sederhana.",
+    "description": "Pilihan hemat untuk sistem pengawasan skala kecil dengan 4 titik kamera, cocok untuk rumah tinggal atau kios usaha.",
+    "features": [
+      "4 channel input kamera",
+      "Output HDMI & VGA",
+      "Akses remote via aplikasi mobile",
+      "Mendukung hardisk hingga 4TB"
+    ],
+    "specs": {
+      "Channel": "4 CH",
+      "Resolusi Rekam": "1280x720 @ 25fps",
+      "Storage": "1x SATA, max 4TB",
+      "Output": "HDMI, VGA",
+      "Power": "DC 12V 2A"
+    },
+    "images": [
+      "/images/products/recorderx-dvr-4ch-720p-1.svg",
+      "/images/products/recorderx-dvr-4ch-720p-2.svg"
+    ]
+  },
+  {
+    "id": "PC-012",
+    "slug": "paket-hemat-4-kamera-dome",
+    "name": "Paket Hemat 4 Kamera Dome + DVR",
+    "category": "paket-cctv",
+    "type": "kit",
+    "brand": "Pondok CCTV",
+    "price": 1650000,
+    "originalPrice": 2100000,
+    "rating": 4.9,
+    "reviewCount": 267,
+    "sold": 890,
+    "stock": 34,
+    "badge": "Best Seller",
+    "resolution": "2MP Full HD",
+    "connectivity": "Analog HD (AHD)",
+    "placement": "Indoor/Outdoor",
+    "color": "#e11d48",
+    "shortDescription": "Paket lengkap 4 kamera dome, DVR 4CH, hardisk 500GB, dan kabel siap pasang.",
+    "description": "Solusi paling praktis untuk rumah dan toko: 4 unit kamera dome 2MP, DVR 4 channel, hardisk 500GB, kabel coaxial 4x20m, adaptor, dan konektor — semua dalam satu paket siap instalasi.",
+    "features": [
+      "4x Kamera Dome 2MP",
+      "1x DVR 4 Channel",
+      "1x Hardisk 500GB",
+      "Kabel coaxial 4x20 meter",
+      "Adaptor & konektor lengkap",
+      "Gratis panduan instalasi"
+    ],
+    "specs": {
+      "Isi Paket": "4 kamera + DVR + HDD + kabel",
+      "Resolusi": "1920x1080",
+      "Storage": "500GB (upgradable)",
+      "Kabel": "4x 20m coaxial",
+      "Garansi": "1 tahun"
+    },
+    "images": [
+      "/images/products/paket-hemat-4-kamera-dome-1.svg",
+      "/images/products/paket-hemat-4-kamera-dome-2.svg"
+    ]
+  },
+  {
+    "id": "PC-013",
+    "slug": "paket-bisnis-8-kamera-nvr",
+    "name": "Paket Bisnis 8 Kamera IP + NVR PoE",
+    "category": "paket-cctv",
+    "type": "kit",
+    "brand": "Pondok CCTV",
+    "price": 5450000,
+    "originalPrice": 6300000,
+    "rating": 4.9,
+    "reviewCount": 118,
+    "sold": 302,
+    "stock": 9,
+    "badge": "Premium",
+    "resolution": "4MP QHD",
+    "connectivity": "IP PoE",
+    "placement": "Indoor/Outdoor",
+    "color": "#e11d48",
+    "shortDescription": "Paket CCTV IP untuk bisnis: 8 kamera 4MP, NVR PoE 8 channel, hardisk 2TB.",
+    "description": "Ditujukan untuk toko, restoran, atau kantor dengan kebutuhan pengawasan menyeluruh. Sistem berbasis IP PoE memudahkan instalasi tanpa kabel power terpisah untuk tiap kamera.",
+    "features": [
+      "8x Kamera IP 4MP PoE",
+      "1x NVR 8 Channel PoE built-in",
+      "1x Hardisk 2TB Surveillance",
+      "Kabel LAN outdoor 8x30m",
+      "Instalasi & training oleh teknisi",
+      "Garansi 2 tahun"
+    ],
+    "specs": {
+      "Isi Paket": "8 kamera IP + NVR + HDD + kabel",
+      "Resolusi": "2560x1440",
+      "Storage": "2TB (upgradable)",
+      "Kabel": "8x 30m LAN outdoor",
+      "Garansi": "2 tahun"
+    },
+    "images": [
+      "/images/products/paket-bisnis-8-kamera-nvr-1.svg",
+      "/images/products/paket-bisnis-8-kamera-nvr-2.svg"
+    ]
+  },
+  {
+    "id": "PC-014",
+    "slug": "paket-rumah-2-kamera-wifi",
+    "name": "Paket Rumah 2 Kamera WiFi Pintar",
+    "category": "paket-cctv",
+    "type": "kit",
+    "brand": "Pondok CCTV",
+    "price": 690000,
+    "originalPrice": 850000,
+    "rating": 4.7,
+    "reviewCount": 341,
+    "sold": 1450,
+    "stock": 58,
+    "badge": "Diskon",
+    "resolution": "3MP QHD",
+    "connectivity": "WiFi",
+    "placement": "Indoor/Outdoor",
+    "color": "#e11d48",
+    "shortDescription": "Paket praktis 2 kamera WiFi tanpa kabel data, cocok untuk rumah minimalis.",
+    "description": "Tidak perlu kabel data panjang, cukup hubungkan ke WiFi rumah dan pantau lewat aplikasi. Paket ini terdiri dari 1 kamera indoor dan 1 kamera outdoor.",
+    "features": [
+      "1x Kamera WiFi Indoor",
+      "1x Kamera WiFi Outdoor",
+      "Aplikasi mobile gratis",
+      "Micro SD 32GB included",
+      "Instalasi tanpa kabel data"
+    ],
+    "specs": {
+      "Isi Paket": "2 kamera WiFi (indoor+outdoor)",
+      "Resolusi": "2304x1296",
+      "Storage": "MicroSD 32GB included",
+      "Konektivitas": "WiFi 2.4GHz",
+      "Garansi": "1 tahun"
+    },
+    "images": [
+      "/images/products/paket-rumah-2-kamera-wifi-1.svg",
+      "/images/products/paket-rumah-2-kamera-wifi-2.svg"
+    ]
+  },
+  {
+    "id": "PC-015",
+    "slug": "hardisk-surveillance-2tb",
+    "name": "Hardisk Surveillance 2TB",
+    "category": "aksesoris",
+    "type": "hdd",
+    "brand": "SkyDisk",
+    "price": 890000,
+    "originalPrice": 990000,
+    "rating": 4.8,
+    "reviewCount": 156,
+    "sold": 720,
+    "stock": 40,
+    "badge": null,
+    "resolution": "-",
+    "connectivity": "SATA III",
+    "placement": "-",
+    "color": "#475569",
+    "shortDescription": "Hardisk khusus CCTV, dirancang untuk perekaman 24/7.",
+    "description": "Dirancang khusus untuk beban kerja perekaman video terus-menerus, hardisk ini lebih tahan lama dibanding hardisk biasa untuk penggunaan DVR/NVR.",
+    "features": [
+      "Kapasitas 2TB",
+      "Dirancang untuk rekam 24/7",
+      "Kompatibel dengan DVR & NVR",
+      "Ketahanan tinggi (rated 24/7/365)"
+    ],
+    "specs": {
+      "Kapasitas": "2TB",
+      "Interface": "SATA III 6Gb/s",
+      "RPM": "5400-7200 RPM",
+      "Cache": "64-256MB"
+    },
+    "images": [
+      "/images/products/hardisk-surveillance-2tb-1.svg"
+    ]
+  },
+  {
+    "id": "PC-016",
+    "slug": "kabel-coaxial-rg59-100m",
+    "name": "Kabel Coaxial RG59 + Power 100m",
+    "category": "aksesoris",
+    "type": "cable",
+    "brand": "ConnectPro",
+    "price": 465000,
+    "originalPrice": 520000,
+    "rating": 4.6,
+    "reviewCount": 210,
+    "sold": 1120,
+    "stock": 90,
+    "badge": "Best Seller",
+    "resolution": "-",
+    "connectivity": "Coaxial",
+    "placement": "-",
+    "color": "#475569",
+    "shortDescription": "Kabel gabungan video dan power, roll 100 meter, kualitas tembaga murni.",
+    "description": "Kabel RG59 kombinasi dengan kabel power, memudahkan instalasi karena hanya perlu satu kabel untuk transmisi video sekaligus daya listrik ke kamera.",
+    "features": [
+      "Roll 100 meter",
+      "Konduktor tembaga murni",
+      "Kabel video + power jadi satu",
+      "Cocok untuk instalasi outdoor"
+    ],
+    "specs": {
+      "Panjang": "100 meter",
+      "Tipe": "RG59 + power",
+      "Konduktor": "Tembaga murni (CCA opsional)",
+      "Penggunaan": "Indoor/Outdoor"
+    },
+    "images": [
+      "/images/products/kabel-coaxial-rg59-100m-1.svg"
+    ]
+  },
+  {
+    "id": "PC-017",
+    "slug": "adaptor-12v-2a-cctv",
+    "name": "Adaptor Power 12V 2A untuk CCTV",
+    "category": "aksesoris",
+    "type": "adaptor",
+    "brand": "ConnectPro",
+    "price": 45000,
+    "originalPrice": 60000,
+    "rating": 4.5,
+    "reviewCount": 389,
+    "sold": 2780,
+    "stock": 150,
+    "badge": "Termurah",
+    "resolution": "-",
+    "connectivity": "DC 12V",
+    "placement": "-",
+    "color": "#475569",
+    "shortDescription": "Adaptor daya standar untuk kamera CCTV dan DVR.",
+    "description": "Adaptor power supply 12V 2A yang kompatibel dengan sebagian besar kamera CCTV analog dan DVR di pasaran.",
+    "features": [
+      "Output 12V 2A stabil",
+      "Colokan standar 5.5x2.1mm",
+      "Proteksi arus lebih",
+      "Kompak dan ringan"
+    ],
+    "specs": {
+      "Output": "DC 12V 2A",
+      "Input": "AC 100-240V",
+      "Konektor": "5.5x2.1mm",
+      "Kabel": "1.5 meter"
+    },
+    "images": [
+      "/images/products/adaptor-12v-2a-cctv-1.svg"
+    ]
+  },
+  {
+    "id": "PC-018",
+    "slug": "switch-poe-8port",
+    "name": "Switch PoE 8 Port untuk NVR",
+    "category": "aksesoris",
+    "type": "switch",
+    "brand": "ConnectPro",
+    "price": 610000,
+    "originalPrice": 700000,
+    "rating": 4.7,
+    "reviewCount": 88,
+    "sold": 245,
+    "stock": 22,
+    "badge": null,
+    "resolution": "-",
+    "connectivity": "Gigabit PoE",
+    "placement": "-",
+    "color": "#475569",
+    "shortDescription": "Switch PoE 8 port untuk mendukung sistem kamera IP tanpa adaptor terpisah.",
+    "description": "Memudahkan distribusi daya dan data ke kamera IP melalui satu kabel LAN saja. Cocok untuk sistem NVR yang tidak memiliki port PoE built-in.",
+    "features": [
+      "8 port PoE (IEEE 802.3af/at)",
+      "Kecepatan gigabit",
+      "Total daya hingga 120W",
+      "Plug and play"
+    ],
+    "specs": {
+      "Port": "8x PoE + 1x Uplink",
+      "Kecepatan": "10/100/1000 Mbps",
+      "Total PoE Power": "120W",
+      "Standar": "802.3af/at"
+    },
+    "images": [
+      "/images/products/switch-poe-8port-1.svg"
+    ]
+  }
+]

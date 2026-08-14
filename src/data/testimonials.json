@@ -1,0 +1,62 @@
+[
+  {
+    "id": "t1",
+    "name": "Budi Santoso",
+    "role": "Pemilik Toko Kelontong",
+    "city": "Bandung",
+    "rating": 5,
+    "avatarColor": "#2563eb",
+    "initials": "BS",
+    "comment": "Pemasangan cepat dan hasilnya jernih banget, sekarang bisa pantau toko dari HP walau lagi di luar kota. Tim Pondok CCTV juga ramah dan sabar jelasin cara pakainya."
+  },
+  {
+    "id": "t2",
+    "name": "Siti Rahayu",
+    "role": "Ibu Rumah Tangga",
+    "city": "Surabaya",
+    "rating": 5,
+    "avatarColor": "#059669",
+    "initials": "SR",
+    "comment": "Beli paket 2 kamera WiFi buat pantau anak dan ART di rumah. Instalasinya gampang, tinggal scan QR terus connect ke WiFi. Sangat puas!"
+  },
+  {
+    "id": "t3",
+    "name": "Ahmad Fauzi",
+    "role": "Manajer Operasional",
+    "city": "Jakarta",
+    "rating": 4,
+    "avatarColor": "#7c3aed",
+    "initials": "AF",
+    "comment": "Pasang paket bisnis 8 kamera untuk gudang perusahaan. Kualitas gambar 4MP-nya detail sekali, bisa baca plat nomor kendaraan dari jarak cukup jauh."
+  },
+  {
+    "id": "t4",
+    "name": "Dewi Lestari",
+    "role": "Pemilik Kos-kosan",
+    "city": "Yogyakarta",
+    "rating": 5,
+    "avatarColor": "#d97706",
+    "initials": "DL",
+    "comment": "Harga bersaing dibanding toko lain, kualitas produk tidak kalah dengan merk mahal. Recorder-nya juga mudah diakses dari aplikasi HP."
+  },
+  {
+    "id": "t5",
+    "name": "Rendra Wijaya",
+    "role": "Pengelola Minimarket",
+    "city": "Semarang",
+    "rating": 5,
+    "avatarColor": "#e11d48",
+    "initials": "RW",
+    "comment": "Sudah 2 tahun pakai produk dari Pondok CCTV, awet dan minim kendala. Kalau ada masalah, layanan purna jualnya responsif."
+  },
+  {
+    "id": "t6",
+    "name": "Maya Anggraini",
+    "role": "Pemilik Kafe",
+    "city": "Denpasar",
+    "rating": 4,
+    "avatarColor": "#0ea5e9",
+    "initials": "MA",
+    "comment": "Desain kamera dome-nya minimalis, cocok sama interior kafe. Rekaman malam hari juga tetap jelas berkat night vision-nya."
+  }
+]
