@@ -1,17 +1,16 @@
 "use client";
 
 import { useState } from "react";
-import { useRouter } from "next/navigation";
 import { motion, AnimatePresence } from "framer-motion";
-import { Minus, Plus, ShoppingCart, Zap, Check } from "lucide-react";
+import { Minus, Plus, ShoppingCart, MessageCircle, Check } from "lucide-react";
 import { useCartStore } from "@/store/cart";
+import { openWhatsApp, productOrderMessage } from "@/lib/whatsapp";
 import type { Product } from "@/types";
 
 export default function AddToCartPanel({ product }: { product: Product }) {
   const [qty, setQty] = useState(1);
   const [added, setAdded] = useState(false);
   const addItem = useCartStore((s) => s.addItem);
-  const router = useRouter();
 
   const handleAdd = () => {
     addItem(product, qty);
@@ -19,9 +18,8 @@ export default function AddToCartPanel({ product }: { product: Product }) {
     setTimeout(() => setAdded(false), 1800);
   };
 
-  const handleBuyNow = () => {
-    addItem(product, qty);
-    router.push("/checkout");
+  const handleOrderViaWhatsApp = () => {
+    openWhatsApp(productOrderMessage(product, qty));
   };
 
   return (
@@ -80,12 +78,16 @@ export default function AddToCartPanel({ product }: { product: Product }) {
         </motion.button>
         <motion.button
           whileTap={{ scale: 0.97 }}
-          onClick={handleBuyNow}
-          className="flex flex-1 items-center justify-center gap-2 rounded-full bg-brand-600 py-3.5 text-sm font-bold text-white shadow-lg shadow-brand-600/25 hover:bg-brand-700"
+          onClick={handleOrderViaWhatsApp}
+          className="flex flex-1 items-center justify-center gap-2 rounded-full bg-emerald-500 py-3.5 text-sm font-bold text-white shadow-lg shadow-emerald-500/25 hover:bg-emerald-600"
         >
-          <Zap size={16} /> Beli Sekarang
+          <MessageCircle size={16} /> Pesan via WhatsApp
         </motion.button>
       </div>
+
+      <p className="mt-3 text-center text-xs text-slate-400 sm:text-left">
+        Pesanan diproses langsung oleh tim kami melalui WhatsApp.
+      </p>
     </div>
   );
 }

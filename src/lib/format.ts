@@ -15,6 +15,19 @@ export function discountPercent(price: number, originalPrice?: number | null): n
   return Math.round(((originalPrice - price) / originalPrice) * 100);
 }
 
+const MONTHS_ID = [
+  "Januari", "Februari", "Maret", "April", "Mei", "Juni",
+  "Juli", "Agustus", "September", "Oktober", "November", "Desember",
+];
+
+// Formats an ISO date (YYYY-MM-DD) without relying on the runtime timezone,
+// so server and client always render the same string.
+export function formatDateID(iso: string): string {
+  const [year, month, day] = iso.split("-").map(Number);
+  if (!year || !month || !day) return iso;
+  return `${day} ${MONTHS_ID[month - 1]} ${year}`;
+}
+
 export function slugify(text: string): string {
   return text
     .toLowerCase()

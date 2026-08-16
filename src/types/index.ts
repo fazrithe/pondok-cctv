@@ -45,6 +45,19 @@ export interface Testimonial {
   comment: string;
 }
 
+export interface PortfolioItem {
+  id: string;
+  title: string;
+  location: string;
+  category: string;
+  scene: string;
+  date: string;
+  cameras: number;
+  color: string;
+  description: string;
+  images: string[];
+}
+
 export interface CartItem {
   product: Product;
   qty: number;

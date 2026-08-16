@@ -15,6 +15,7 @@ const NAV_LINKS = [
   { label: "Beranda", href: "/" },
   { label: "Produk", href: "/produk" },
   { label: "Promo", href: "/promo" },
+  { label: "Portofolio", href: "/portofolio" },
   { label: "Tentang Kami", href: "/tentang" },
   { label: "Kontak", href: "/kontak" },
 ];

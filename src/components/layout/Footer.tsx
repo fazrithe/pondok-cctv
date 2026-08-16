@@ -61,6 +61,7 @@ export default function Footer() {
             <li><Link href="/tentang" className="text-sm text-slate-600 hover:text-brand-600">Tentang Kami</Link></li>
             <li><Link href="/produk" className="text-sm text-slate-600 hover:text-brand-600">Semua Produk</Link></li>
             <li><Link href="/promo" className="text-sm text-slate-600 hover:text-brand-600">Promo</Link></li>
+            <li><Link href="/portofolio" className="text-sm text-slate-600 hover:text-brand-600">Portofolio</Link></li>
             <li><Link href="/kontak" className="text-sm text-slate-600 hover:text-brand-600">Kontak</Link></li>
             <li><Link href="/keranjang" className="text-sm text-slate-600 hover:text-brand-600">Keranjang</Link></li>
           </ul>

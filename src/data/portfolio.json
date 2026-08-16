@@ -1,0 +1,194 @@
+[
+  {
+    "id": "pf-01",
+    "title": "Pondok Pesantren Al-Hikmah",
+    "location": "Cilegon, Banten",
+    "category": "pendidikan",
+    "scene": "masjid",
+    "date": "2025-11-12",
+    "cameras": 16,
+    "color": "#2563eb",
+    "description": "Pemasangan 16 kamera IP di area masjid, asrama santri, dan gerbang utama lengkap dengan NVR 16 channel serta akses monitoring dari ponsel pengurus.",
+    "images": [
+      "/images/portfolio/pondok-pesantren-al-hikmah-1.svg",
+      "/images/portfolio/pondok-pesantren-al-hikmah-2.svg",
+      "/images/portfolio/pondok-pesantren-al-hikmah-3.svg"
+    ]
+  },
+  {
+    "id": "pf-02",
+    "title": "Ruko Sentra Niaga Cilegon",
+    "location": "Cilegon, Banten",
+    "category": "bisnis",
+    "scene": "ruko",
+    "date": "2025-10-28",
+    "cameras": 8,
+    "color": "#059669",
+    "description": "Instalasi 8 kamera 5MP untuk area kasir, gudang belakang, dan teras ruko. Rekaman tersimpan 30 hari dengan hardisk surveillance 2TB.",
+    "images": [
+      "/images/portfolio/ruko-sentra-niaga-cilegon-1.svg",
+      "/images/portfolio/ruko-sentra-niaga-cilegon-2.svg",
+      "/images/portfolio/ruko-sentra-niaga-cilegon-3.svg"
+    ]
+  },
+  {
+    "id": "pf-03",
+    "title": "Perumahan Bukit Cilegon Asri",
+    "location": "Cilegon, Banten",
+    "category": "rumah",
+    "scene": "rumah",
+    "date": "2025-10-09",
+    "cameras": 6,
+    "color": "#7c3aed",
+    "description": "Paket CCTV rumahan 6 kamera untuk carport, pintu depan, taman belakang, dan ruang keluarga dengan kabel tertanam rapi di plafon.",
+    "images": [
+      "/images/portfolio/perumahan-bukit-cilegon-asri-1.svg",
+      "/images/portfolio/perumahan-bukit-cilegon-asri-2.svg",
+      "/images/portfolio/perumahan-bukit-cilegon-asri-3.svg"
+    ]
+  },
+  {
+    "id": "pf-04",
+    "title": "SMK Negeri 2 Cilegon",
+    "location": "Cilegon, Banten",
+    "category": "pendidikan",
+    "scene": "sekolah",
+    "date": "2025-09-21",
+    "cameras": 24,
+    "color": "#ea580c",
+    "description": "Pengawasan 24 titik meliputi koridor kelas, laboratorium, kantin, dan area parkir. Monitoring terpusat di ruang tata usaha.",
+    "images": [
+      "/images/portfolio/smk-negeri-2-cilegon-1.svg",
+      "/images/portfolio/smk-negeri-2-cilegon-2.svg",
+      "/images/portfolio/smk-negeri-2-cilegon-3.svg"
+    ]
+  },
+  {
+    "id": "pf-05",
+    "title": "Gudang Logistik PT Karya Baja",
+    "location": "Serang, Banten",
+    "category": "industri",
+    "scene": "gudang",
+    "date": "2025-09-03",
+    "cameras": 20,
+    "color": "#0891b2",
+    "description": "20 kamera bullet outdoor untuk area loading dock, rak penyimpanan, dan pagar keliling gudang seluas 4.000 m² dengan jaringan fiber optic.",
+    "images": [
+      "/images/portfolio/gudang-logistik-pt-karya-baja-1.svg",
+      "/images/portfolio/gudang-logistik-pt-karya-baja-2.svg",
+      "/images/portfolio/gudang-logistik-pt-karya-baja-3.svg"
+    ]
+  },
+  {
+    "id": "pf-06",
+    "title": "Kantor Notaris Wijaya & Rekan",
+    "location": "Serang, Banten",
+    "category": "kantor",
+    "scene": "kantor",
+    "date": "2025-08-19",
+    "cameras": 10,
+    "color": "#2563eb",
+    "description": "Instalasi 10 kamera dome indoor pada ruang arsip, ruang tunggu, dan lobi kantor. Dilengkapi UPS agar rekaman tetap aman saat listrik padam.",
+    "images": [
+      "/images/portfolio/kantor-notaris-wijaya-rekan-1.svg",
+      "/images/portfolio/kantor-notaris-wijaya-rekan-2.svg",
+      "/images/portfolio/kantor-notaris-wijaya-rekan-3.svg"
+    ]
+  },
+  {
+    "id": "pf-07",
+    "title": "Masjid Agung Nurul Ikhlas",
+    "location": "Cilegon, Banten",
+    "category": "pendidikan",
+    "scene": "masjid",
+    "date": "2025-08-02",
+    "cameras": 12,
+    "color": "#16a34a",
+    "description": "12 kamera untuk ruang utama, tempat wudhu, dan halaman parkir jamaah. Hasil rekaman dapat diakses pengurus DKM melalui aplikasi.",
+    "images": [
+      "/images/portfolio/masjid-agung-nurul-ikhlas-1.svg",
+      "/images/portfolio/masjid-agung-nurul-ikhlas-2.svg",
+      "/images/portfolio/masjid-agung-nurul-ikhlas-3.svg"
+    ]
+  },
+  {
+    "id": "pf-08",
+    "title": "Minimarket Berkah Anyer",
+    "location": "Anyer, Serang",
+    "category": "bisnis",
+    "scene": "ruko",
+    "date": "2025-07-15",
+    "cameras": 8,
+    "color": "#dc2626",
+    "description": "Pemasangan 8 kamera dengan sudut khusus meja kasir dan rak display, plus kamera PTZ untuk memantau area parkir depan toko.",
+    "images": [
+      "/images/portfolio/minimarket-berkah-anyer-1.svg",
+      "/images/portfolio/minimarket-berkah-anyer-2.svg",
+      "/images/portfolio/minimarket-berkah-anyer-3.svg"
+    ]
+  },
+  {
+    "id": "pf-09",
+    "title": "Klinik Sehat Bersama Merak",
+    "location": "Merak, Cilegon",
+    "category": "kantor",
+    "scene": "kantor",
+    "date": "2025-06-27",
+    "cameras": 9,
+    "color": "#0d9488",
+    "description": "9 kamera indoor di area pendaftaran, ruang tunggu pasien, dan apotek. Instalasi dikerjakan malam hari agar tidak mengganggu layanan klinik.",
+    "images": [
+      "/images/portfolio/klinik-sehat-bersama-merak-1.svg",
+      "/images/portfolio/klinik-sehat-bersama-merak-2.svg",
+      "/images/portfolio/klinik-sehat-bersama-merak-3.svg"
+    ]
+  },
+  {
+    "id": "pf-10",
+    "title": "Villa Pantai Anyer Indah",
+    "location": "Anyer, Serang",
+    "category": "rumah",
+    "scene": "rumah",
+    "date": "2025-06-08",
+    "cameras": 7,
+    "color": "#f59e0b",
+    "description": "7 kamera tahan cuaca pesisir untuk gerbang, kolam renang, dan sisi pantai villa. Pemilik dapat memantau dari Jakarta secara realtime.",
+    "images": [
+      "/images/portfolio/villa-pantai-anyer-indah-1.svg",
+      "/images/portfolio/villa-pantai-anyer-indah-2.svg",
+      "/images/portfolio/villa-pantai-anyer-indah-3.svg"
+    ]
+  },
+  {
+    "id": "pf-11",
+    "title": "Pabrik Kemasan PT Sinar Plastik",
+    "location": "Cilegon, Banten",
+    "category": "industri",
+    "scene": "gudang",
+    "date": "2025-05-16",
+    "cameras": 32,
+    "color": "#475569",
+    "description": "Proyek terbesar kami tahun ini: 32 kamera mencakup lini produksi, ruang panel, dan pos satpam, terintegrasi dengan sistem absensi pabrik.",
+    "images": [
+      "/images/portfolio/pabrik-kemasan-pt-sinar-plastik-1.svg",
+      "/images/portfolio/pabrik-kemasan-pt-sinar-plastik-2.svg",
+      "/images/portfolio/pabrik-kemasan-pt-sinar-plastik-3.svg"
+    ]
+  },
+  {
+    "id": "pf-12",
+    "title": "Cluster Taman Krakatau",
+    "location": "Cilegon, Banten",
+    "category": "rumah",
+    "scene": "rumah",
+    "date": "2025-04-24",
+    "cameras": 14,
+    "color": "#4f46e5",
+    "description": "Sistem keamanan cluster dengan 14 kamera di gerbang masuk, jalan lingkungan, dan taman bermain. Monitoring dipusatkan di pos security 24 jam.",
+    "images": [
+      "/images/portfolio/cluster-taman-krakatau-1.svg",
+      "/images/portfolio/cluster-taman-krakatau-2.svg",
+      "/images/portfolio/cluster-taman-krakatau-3.svg"
+    ]
+  }
+]

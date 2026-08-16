@@ -4,7 +4,7 @@ import { motion, type HTMLMotionProps } from "framer-motion";
 import Link from "next/link";
 import { cn } from "@/lib/utils";
 
-type Variant = "primary" | "outline" | "ghost" | "dark" | "light";
+type Variant = "primary" | "outline" | "ghost" | "dark" | "light" | "whatsapp";
 type Size = "sm" | "md" | "lg";
 
 const variantClasses: Record<Variant, string> = {
@@ -15,6 +15,8 @@ const variantClasses: Record<Variant, string> = {
   ghost: "text-slate-600 hover:text-brand-600 hover:bg-brand-50",
   dark: "bg-slate-900 text-white hover:bg-slate-800",
   light: "bg-white text-brand-700 shadow-lg shadow-slate-900/10 hover:bg-brand-50",
+  whatsapp:
+    "bg-emerald-500 text-white shadow-lg shadow-emerald-500/25 hover:bg-emerald-600",
 };
 
 const sizeClasses: Record<Size, string> = {

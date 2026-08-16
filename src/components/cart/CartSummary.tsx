@@ -1,15 +1,14 @@
 "use client";
 
-import { useRouter } from "next/navigation";
-import { ArrowRight, ShieldCheck } from "lucide-react";
+import { MessageCircle, ShieldCheck } from "lucide-react";
 import { Button } from "@/components/ui/Button";
 import { formatRupiah } from "@/lib/format";
 import { useCartStore } from "@/store/cart";
+import { cartOrderMessage, openWhatsApp } from "@/lib/whatsapp";
 
 export default function CartSummary() {
   const items = useCartStore((s) => s.items);
   const totalPrice = useCartStore((s) => s.totalPrice());
-  const router = useRouter();
 
   const shipping = items.length === 0 ? 0 : totalPrice >= 1_000_000 ? 0 : 25_000;
   const grandTotal = totalPrice + shipping;
@@ -37,16 +36,17 @@ export default function CartSummary() {
       </div>
 
       <Button
-        onClick={() => router.push("/checkout")}
+        onClick={() => openWhatsApp(cartOrderMessage(items, shipping))}
         disabled={items.length === 0}
+        variant="whatsapp"
         className="mt-6 w-full"
         size="md"
       >
-        Checkout Sekarang <ArrowRight size={16} />
+        <MessageCircle size={16} /> Pesan via WhatsApp
       </Button>
 
       <p className="mt-4 flex items-center justify-center gap-1.5 text-xs text-slate-400">
-        <ShieldCheck size={13} /> Transaksi aman &amp; terenkripsi
+        <ShieldCheck size={13} /> Pesanan dikonfirmasi langsung oleh tim kami
       </p>
     </div>
   );
